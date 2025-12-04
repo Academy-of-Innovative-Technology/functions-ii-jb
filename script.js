@@ -1,6 +1,5 @@
 
-// Basic Operations - Example //
-// if you wish to use for the select menu //
+
 function handleBasicOperation(type) {
     const num1;
     const num2;
@@ -18,4 +17,4 @@ function handleBasicOperation(type) {
     document.getElementById("basicResult").textContent = `Result: ${result}`;
 }
 
-// Math Formula Handlers
+
